@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-scorpio",
+  "version": "1.0.0",
+  "description": "scorpio-react-starter-template",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scorpiocoding - denOldTimer",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+    "packagae": {
+        "depandencies": {            
+        },
+        "scripts": {
+            "say-hi": "echo 'hi'"
+          }
+    }
+}
