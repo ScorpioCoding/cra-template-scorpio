@@ -1,5 +1,5 @@
-import logo from './assets/img/scorpiocoding-banner.png';
-import './App.css';
+import logo from "./assets/img/scorpiocoding-banner.png";
+import "./styles/App.scss";
 
 function App() {
   return (

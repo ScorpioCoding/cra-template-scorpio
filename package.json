@@ -1,11 +1,17 @@
 {
   "name": "cra-template-scorpio",
-  "version": "1.0.0",
+  "version": "1.1.2",
+  "keywords": [
+    "react",
+    "cra-template",
+    "scorpio",
+    "scorpiocoding"
+  ],
   "description": "scorpio-react-starter-template",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "scorpiocoding - denOldTimer",
+  "author": "scorpiocoding (https://scorpiocoding.com)",
   "license": "MIT"
 }

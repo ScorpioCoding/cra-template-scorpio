@@ -1,8 +1,8 @@
-# React template scorpio (cra-template-scorpio)
+# React template scorpio
 
 ### cra-template-scorpio
 
-Is a react boilerpalte template
+This is a react boilerplate template
 
 ### React Command Line
 

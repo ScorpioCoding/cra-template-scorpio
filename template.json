@@ -1,9 +1,10 @@
 {
-    "packagae": {
-        "depandencies": {            
-        },
-        "scripts": {
-            "say-hi": "echo 'hi'"
-          }
+  "package": {
+    "dependencies": {
+      "sass": "^1.77.6"
+    },
+    "scripts": {
+      "say-hi": "echo 'hi'"
     }
+  }
 }
