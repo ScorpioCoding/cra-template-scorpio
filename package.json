@@ -12,6 +12,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "scorpiocoding (https://scorpiocoding.com)",
-  "license": "MIT"
+  "author": "scorpiocoding <dev@scorpiocoding.com> (https://scorpiocoding.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorpioCoding/cra-template-scorpio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ScorpioCoding/cra-template-scorpio/issues"
+  },
+  "homepage": "https://github.com/ScorpioCoding/cra-template-scorpio#readme"
 }
